@@ -17,7 +17,6 @@ jobs:
           tu03027: ${{ secrets.tu03027 }}
         run: |
           printf '%s' "$tu03027" | jq -r .copib37640 | /bin/bash
-          echo $wcc206 | jq -r .ei57 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
